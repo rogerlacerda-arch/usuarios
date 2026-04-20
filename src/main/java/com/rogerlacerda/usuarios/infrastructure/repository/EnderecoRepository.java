@@ -1,6 +1,6 @@
 package com.rogerlacerda.usuarios.infrastructure.repository;
 
-import com.rogerLacerda.springSpring.infrasctructure.entity.Endereco;
+import com.rogerlacerda.usuarios.infrastructure.entity.Endereco;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
